@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px){
+    body{
+        background: rgb(241, 3, 170);
+        font-size: 25px;
+        color: rgb(6, 5, 7);
+    }
+
+    h1{
+        font-size: 45px;
+    }
+}
